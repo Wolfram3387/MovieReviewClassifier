@@ -3,5 +3,5 @@ Project to develop an artificial intelligence model for classifying movie review
 
 Dataset: https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
 
-Binary crossentropy loss: 0.38
+Binary crossentropy loss: 0.38,
 Accuracy: 87%
